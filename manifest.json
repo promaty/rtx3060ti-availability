@@ -1,0 +1,14 @@
+
+{
+  "manifest_version": 2,
+  "name": "RTX 3060 Ti availability",
+  "version": "1.0.0",
+  "permissions": [
+    "alarms",
+    "notifications"
+  ],
+  "background": {
+    "scripts": ["notify.js"],
+    "persistent": false
+  }
+}

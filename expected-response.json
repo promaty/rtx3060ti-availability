@@ -78,10 +78,28 @@
           "isValidate": false
         },
         {
+          "dispValue": "RTX 3080 Ti",
+          "dispValueDesription": null,
+          "groupType": null,
+          "units": 18,
+          "checked": false,
+          "imageURL": null,
+          "isValidate": false
+        },
+        {
           "dispValue": "RTX 3080",
           "dispValueDesription": null,
           "groupType": null,
           "units": 18,
+          "checked": false,
+          "imageURL": null,
+          "isValidate": false
+        },
+        {
+          "dispValue": "RTX 3070 Ti",
+          "dispValueDesription": null,
+          "groupType": null,
+          "units": 4,
           "checked": false,
           "imageURL": null,
           "isValidate": false
@@ -153,7 +171,7 @@
           "dispValue": "RTX 2060",
           "dispValueDesription": null,
           "groupType": null,
-          "units": 2,
+          "units": 1,
           "checked": false,
           "imageURL": null,
           "isValidate": false
@@ -162,7 +180,7 @@
           "dispValue": "GTX 1660 Ti",
           "dispValueDesription": null,
           "groupType": null,
-          "units": 0,
+          "units": 1,
           "checked": false,
           "imageURL": null,
           "isValidate": false
@@ -171,7 +189,7 @@
           "dispValue": "GTX 1660 SUPER",
           "dispValueDesription": null,
           "groupType": null,
-          "units": 7,
+          "units": 9,
           "checked": false,
           "imageURL": null,
           "isValidate": false
@@ -180,7 +198,7 @@
           "dispValue": "GTX 1660",
           "dispValueDesription": null,
           "groupType": null,
-          "units": 2,
+          "units": 3,
           "checked": false,
           "imageURL": null,
           "isValidate": false
@@ -195,10 +213,19 @@
           "isValidate": false
         },
         {
+          "dispValue": "GTX 1650 SUPER",
+          "dispValueDesription": null,
+          "groupType": null,
+          "units": 3,
+          "checked": false,
+          "imageURL": null,
+          "isValidate": false
+        },
+        {
           "dispValue": "GTX 1650",
           "dispValueDesription": null,
           "groupType": null,
-          "units": 4,
+          "units": 10,
           "checked": false,
           "imageURL": null,
           "isValidate": false
@@ -312,7 +339,7 @@
           "isValidate": false
         },
         {
-          "dispValue": "LENOVO",
+          "dispValue": "INNO3D",
           "dispValueDesription": null,
           "groupType": null,
           "units": 0,
@@ -390,7 +417,7 @@
   ],
   "filterGroups": null,
   "search": null,
-  "version": "65",
+  "version": "7",
   "sort": [
     {
       "displayName": "featured_gpu",
@@ -454,8 +481,8 @@
           "logoUrl": "https://media.ldlc.com/cms/2020-11/logo-site-noel-2.png",
           "isAvailable": true,
           "salePrice": "419.00",
-          "directPurchaseLink": "https://www.ldlc.com/fiche/PB45784578.html",
-          "purchaseLink": "https://www.ldlc.com/fiche/PB45784578.html",
+          "directPurchaseLink": null,
+          "purchaseLink": "https://www.ldlc.com/fiche/PB78454578.html",
           "hasOffer": false,
           "offerText": null,
           "partnerId": "45",

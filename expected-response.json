@@ -99,7 +99,7 @@
           "dispValue": "RTX 3070 Ti",
           "dispValueDesription": null,
           "groupType": null,
-          "units": 4,
+          "units": 3,
           "checked": false,
           "imageURL": null,
           "isValidate": false
@@ -171,7 +171,7 @@
           "dispValue": "RTX 2060",
           "dispValueDesription": null,
           "groupType": null,
-          "units": 1,
+          "units": 2,
           "checked": false,
           "imageURL": null,
           "isValidate": false
@@ -180,7 +180,7 @@
           "dispValue": "GTX 1660 Ti",
           "dispValueDesription": null,
           "groupType": null,
-          "units": 1,
+          "units": 2,
           "checked": false,
           "imageURL": null,
           "isValidate": false
@@ -189,7 +189,7 @@
           "dispValue": "GTX 1660 SUPER",
           "dispValueDesription": null,
           "groupType": null,
-          "units": 9,
+          "units": 10,
           "checked": false,
           "imageURL": null,
           "isValidate": false
@@ -225,7 +225,7 @@
           "dispValue": "GTX 1650",
           "dispValueDesription": null,
           "groupType": null,
-          "units": 10,
+          "units": 17,
           "checked": false,
           "imageURL": null,
           "isValidate": false
@@ -482,7 +482,7 @@
           "isAvailable": true,
           "salePrice": "419.00",
           "directPurchaseLink": null,
-          "purchaseLink": "https://www.ldlc.com/fiche/PB78454578.html",
+          "purchaseLink": "https://www.ldlc.com/fiche/PB94163264.html",
           "hasOffer": false,
           "offerText": null,
           "partnerId": "45",

@@ -56,7 +56,7 @@ const OUT_OF_STOCK_RESPONSE = {
       "isAvailable": true,
       "salePrice": "419.00",
       "directPurchaseLink": null,
-      "purchaseLink": "https://www.ldlc.com/fiche/PB78454578.html",
+      "purchaseLink": "https://www.ldlc.com/fiche/PB94163264.html",
       "hasOffer": false,
       "offerText": null,
       "partnerId": "45",
